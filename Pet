@@ -1,6 +1,1 @@
-<script>
-setTimeout(function() {
-  var sites = ['https://pd.magazinebd.com/pet-protection-how-it-functions-and-assuming-its-worth-the-effort/'];
-window.location.replace(sites[Math.floor(Math.random()*sites.length)]);
-}, 3);
-</script>
+https://pd.magazinebd.com/pet-protection-how-it-functions-and-assuming-its-worth-the-effort/
