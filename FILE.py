@@ -38,7 +38,7 @@ os.system("espeak -a 300 \"FOLLOW,MY,FACBOOK,ID,\"")
 time.sleep(2)
 os.system(f'xdg-open https://www.facebook.com/profile.php?id=100091953398314')
 os.system(f'xdg-open https://www.facebook.com/profile.php?id=100091953398314')
-##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
+##os.system("espeak -a 300 \"Enter,RIFAT,and,TOM, \"")##
 #------------------[ RK-RIFAT ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 11; 2107113SI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36",]
